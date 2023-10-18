@@ -11,13 +11,6 @@ InstaMoney is a user-friendly, cross-platform graphical application built using 
 - Tkinter
 
 
-## Screenshots
-
-![SuperGUI Screenshot1](images/instaMoneySS1.png)
-
-![SuperGUI Screenshot2](images/instaMoneySS2.png)
-
-
 ## Getting Started
 
 To run SuperGUI, follow these simple steps:
