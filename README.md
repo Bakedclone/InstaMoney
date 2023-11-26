@@ -12,8 +12,10 @@ InstaMoney is a user-friendly, cross-platform graphical application built using 
 
 ## Screenshots
 
-![InstaMoney Screenshot](images/screenshot1.png)
-![InstaMoney Screenshot](images/screenshot2.png)
+![screenshot1](https://github.com/Bakedclone/InstaMoney/assets/99416577/72ba8661-47e0-47a0-b0d0-dd3d8762f095)
+
+![screenshot2](https://github.com/Bakedclone/InstaMoney/assets/99416577/63398154-6c92-4b33-b95b-f8a159dd84a9)
+
 
 ## Getting Started
 
