@@ -10,6 +10,10 @@ InstaMoney is a user-friendly, cross-platform graphical application built using 
 - Python 3.7+
 - Tkinter
 
+## Screenshots
+
+![InstaMoney Screenshot](images/screenshot1.png)
+![InstaMoney Screenshot](images/screenshot2.png)
 
 ## Getting Started
 
